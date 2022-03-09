@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ShadersInPlugins.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UnrealRender\UE5ShaderPlugin\Intermediate\Build\Win64\UE5ShaderPluginEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\UnrealRender\UE5ShaderPlugin\Plugins\ShadersInPlugins\Intermediate\Build\Win64\UnrealEditor\Development\ShadersInPlugins\Module.ShadersInPlugins.cpp.obj"
+"E:\UnrealRender\UE5ShaderPlugin\Plugins\ShadersInPlugins\Intermediate\Build\Win64\UnrealEditor\Development\ShadersInPlugins\Module.ShadersInPlugins.gen.cpp.obj"
+"E:\UnrealRender\UE5ShaderPlugin\Plugins\ShadersInPlugins\Intermediate\Build\Win64\UnrealEditor\Development\ShadersInPlugins\Default.rc2.res"
+/OUT:"E:\UnrealRender\UE5ShaderPlugin\Plugins\ShadersInPlugins\Intermediate\Build\Win64\UnrealEditor\Development\ShadersInPlugins\UnrealEditor-ShadersInPlugins.lib"

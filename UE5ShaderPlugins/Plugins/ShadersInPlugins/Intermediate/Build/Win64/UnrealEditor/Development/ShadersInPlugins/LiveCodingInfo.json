@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ShadersInPlugins.cpp.obj": [
+			"LensDistortionRendering.cpp.obj",
+			"ShaderInPluginsBlueprintLibrary.cpp.obj",
+			"ShadersInPlugins.cpp.obj"
+		],
+		"Module.ShadersInPlugins.gen.cpp.obj": [
+			"LensDistortionAPI.gen.cpp.obj",
+			"ShaderInPluginsBlueprintLibrary.gen.cpp.obj",
+			"ShadersInPlugins.init.gen.cpp.obj"
+		]
+	}
+}
