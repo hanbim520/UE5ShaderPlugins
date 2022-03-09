@@ -8,7 +8,7 @@ public class UE5ShaderPlugin : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore","ShadersInPlugins" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore","ShadersInPlugins","ToonShader" });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
